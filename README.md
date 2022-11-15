@@ -7,4 +7,4 @@ Turma (ES - Sexta) - Alunos:
 1) Matheus Bello Motta - RGM 11629380
 2) Matheus Oliveira de Lara  - RGM 13282531
 
-https://www.kaggle.com/datasets/blurredmachine/fifa-2019-world-cup-dataset 
+Dataset utilizado: https://www.kaggle.com/datasets/blurredmachine/fifa-2019-world-cup-dataset 
